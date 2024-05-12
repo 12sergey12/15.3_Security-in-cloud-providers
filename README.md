@@ -14,7 +14,7 @@
 
 [terraform]()
 
-[kms.tf]()
+[kms.tf](https://github.com/12sergey12/15.3_Security-in-cloud-providers/blob/main/kms.tf)
 
 <details><summary>Инициализация проекта</summary>
 
@@ -713,9 +713,14 @@ root@baranovsa:/home/baranovsa/15.3_sertificat#
 
 ------
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/15.3_Security-in-cloud-providers/blob/main/images/%D0%BA%D0%BB%D1%8E%D1%87.png)
 
-![monitoring]()
+![monitoring](https://github.com/12sergey12/15.3_Security-in-cloud-providers/blob/main/images/%D0%BA%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD.png)
+
+![monitoring](https://github.com/12sergey12/15.3_Security-in-cloud-providers/blob/main/images/%D0%B1%D0%B0%D0%BA%D0%B5%D1%82%D1%8B.png)
+
+![monitoring](https://github.com/12sergey12/15.3_Security-in-cloud-providers/blob/main/images/%D0%B1%D0%B0%D0%BA%D0%B5%D1%82_%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png)
+
 
 
 2. (Выполняется не в Terraform)* Создать статический сайт в Object Storage c собственным публичным адресом и сделать доступным по HTTPS:
@@ -731,14 +736,6 @@ root@baranovsa:/home/baranovsa/15.3_sertificat#
 - [KMS key](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/kms_symmetric_key).
 
 --- 
-
-![monitoring]()
-
-![monitoring]()
-
-![monitoring]()
-
-![monitoring]()
 
 
 
